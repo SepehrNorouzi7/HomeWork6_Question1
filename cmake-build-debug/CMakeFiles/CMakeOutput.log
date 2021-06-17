@@ -1,0 +1,168 @@
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 11.0/VC/bin/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 17.00.50727.1 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 11.00.50727.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 11.0/VC/bin/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 17.00.50727.1 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 11.00.50727.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_15458\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_15458.dir\build.make /nologo -L                  CMakeFiles\cmTC_15458.dir\build
+Building C object CMakeFiles/cmTC_15458.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\ASUS\AppData\Local\Temp\nm78BA.tmp
+testCCompiler.c
+Linking C executable cmTC_15458.exe
+	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_15458.dir --rc=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_15458.dir\objects1.rsp @C:\Users\ASUS\AppData\Local\Temp\nm7ACF.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a5a18\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_a5a18.dir\build.make /nologo -L                  CMakeFiles\cmTC_a5a18.dir\build
+Building C object CMakeFiles/cmTC_a5a18.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\ASUS\AppData\Local\Temp\nm7DDB.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_a5a18.exe
+	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a5a18.dir --rc=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_a5a18.dir\objects1.rsp @C:\Users\ASUS\AppData\Local\Temp\nm7E2A.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_c8e8d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_c8e8d.dir\build.make /nologo -L                  CMakeFiles\cmTC_c8e8d.dir\build
+Building CXX object CMakeFiles/cmTC_c8e8d.dir/testCXXCompiler.cxx.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\ASUS\AppData\Local\Temp\nm8107.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_c8e8d.exe
+	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_c8e8d.dir --rc=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_c8e8d.dir\objects1.rsp @C:\Users\ASUS\AppData\Local\Temp\nm8166.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a4b61\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_a4b61.dir\build.make /nologo -L                  CMakeFiles\cmTC_a4b61.dir\build
+Building CXX object CMakeFiles/cmTC_a4b61.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\ASUS\AppData\Local\Temp\nm8405.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_a4b61.exe
+	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a4b61.dir --rc=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_a4b61.dir\objects1.rsp @C:\Users\ASUS\AppData\Local\Temp\nm8483.tmp
+
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_4554c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_4554c.dir\build.make /nologo -L                  CMakeFiles\cmTC_4554c.dir\build
+Building CXX object CMakeFiles/cmTC_4554c.dir/feature_tests.cxx.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\ASUS\AppData\Local\Temp\nm8751.tmp
+feature_tests.cxx
+Linking CXX executable cmTC_4554c.exe
+	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4554c.dir --rc=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.0\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_4554c.dir\objects1.rsp @C:\Users\ASUS\AppData\Local\Temp\nm87B0.tmp
+
+
+
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_variable_templates

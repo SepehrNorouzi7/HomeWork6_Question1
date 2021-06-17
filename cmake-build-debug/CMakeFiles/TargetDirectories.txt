@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/tamrin1.dir
+C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/tamrin1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
